@@ -35,6 +35,6 @@ public class GuessTheNumber {
         }
         
         scanner.close();
-        System.out.println("Thank you for playing!");
+        System.out.println("Thank you for playing!!!");
     }
 }
